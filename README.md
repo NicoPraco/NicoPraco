@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicoPraco or you can also call me Ghostnik34!
 - 👀 I’m interested in videogames, anime, drawing and coding!
-- 🌱 I’m currently learning C in an University. On the other hand, I am planning to start learning JavaScript on my own!
+- 🌱 I’m currently learning C in an University. On the other hand, I am studying PHP on my own.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: @ghostnik34 in Instagram!
 
