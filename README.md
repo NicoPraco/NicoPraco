@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicolas or you can also call me Nico
 - 👀 I’m interested in coding and videogames!
-- 🌱 I’m currently learning C# in an University. On the other hand, I am studying JavaScript and other lenguages and frameworks on my own.
+- 🌱 I’m currently learning more about C#, especially interested in learning more about ASP.NET & WPF.
 - 📫 How to reach me: Nicolas Praconovo in LinkedIn!
   
 <!---- 💞️ I’m looking to collaborate on ... --->
